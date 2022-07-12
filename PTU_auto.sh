@@ -1,3 +1,5 @@
+#!/bin/bash
+
 read -p "How long you want to run PTU : (sec) " ptu_time
 read -p "How many cards you want to run PTU : (cards) " ptu_cards
 read -p "What's the percentage you want to run PTU : (0-100) " ptu_percent
